@@ -1,0 +1,9 @@
+[submodule "Source/SessionFetcher"]
+	path = Source/SessionFetcher
+	url = https://github.com/XerxesEngineering/gtm-session-fetcher.git
+[submodule "Source/HTTPFetcher"]
+	path = Source/HTTPFetcher
+	url = https://github.com/XerxesEngineering/gtm-http-fetcher.git
+[submodule "Source/OAuth2"]
+	path = Source/OAuth2
+	url = https://github.com/XerxesEngineering/gtm-oauth2.git
